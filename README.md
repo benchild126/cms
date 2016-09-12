@@ -18,3 +18,5 @@ ccc12cc213
 以上是冲突文件的内容，备查
 
 tor git pull
+
+tor gti push
